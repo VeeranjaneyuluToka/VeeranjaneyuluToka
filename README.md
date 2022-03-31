@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @VeeranjaneyuluToka
 - 👀 I’m interested in Computer Vision, Machine Learning and mathematics
 - 🌱 I’m currently learning recent techniques in Object Detection and tracking
-- 💞️ I’m looking to collaborate on discussing mathematical derivation of ML algorithms
+- 💞️ I’m looking to collaborate on discussing different ML algos and mathematical derivation.
 - 📫 Reach me on tvjwithyou@gmail.com
 
 <!---
