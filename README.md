@@ -1,8 +1,11 @@
-- 👋 Hi, I’m @VeeranjaneyuluToka
-- 👀 I’m interested in Computer Vision, Machine Learning and mathematics
-- 🌱 I’m currently learning recent techniques in Object Detection and tracking
-- 💞️ I’m looking to collaborate on discussing different ML algos and mathematical derivation.
-- 📫 Reach me on tvjwithyou@gmail.com
+### 👋 Hi there! I'm Veeranjaneyulu Toka
+
+- 👀 I'm passionate about **Computer Vision**, **Machine Learning**, and **Mathematics**
+- 🌱 Currently exploring advanced techniques in **Object Detection** and **Multi-Object Tracking** in both **2D and 3D**
+- 💬 I enjoy discussing ML algorithms, their mathematical foundations, and practical applications
+- 🤝 Open to collaborations on research projects, algorithm design, or insightful ML discussions
+- 📫 Reach me at: **tvjwithyou@gmail.com*
+
 
 <!---
 VeeranjaneyuluToka/VeeranjaneyuluToka is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
